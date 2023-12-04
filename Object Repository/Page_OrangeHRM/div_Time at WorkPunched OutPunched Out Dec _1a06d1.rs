@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Time at WorkPunched OutPunched Out Dec _1a06d1</name>
+   <tag></tag>
+   <elementGuidId>d185164a-203d-4039-8383-c4a663dbefed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-layout-context</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>00741c60-5f91-4b55-b563-e6a57c2fe827</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-layout-context</value>
+      <webElementGuid>1434e85b-4c5e-40c3-91bd-e2763c25778b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Time at WorkPunched OutPunched Out: Dec 5th at 09:56 AM (GMT 5.5)24h 0m TodayThis WeekDec 04 - Dec 1035h 26m My Actions(1) Pending Self Review(1) Candidate to InterviewQuick LaunchAssign LeaveLeave ListTimesheetsApply LeaveMy LeaveMy TimesheetBuzz Latest PostsTest 2 Alice  Bailey Parchment 2023-12-04 10:47 PMTestasTest 2 Alice  Bailey Parchment 2023-12-04 10:45 PMTestasTest 2 Alice  Bailey Parchment 2023-12-04 10:45 PMTestasTest 2 Alice  Bailey Parchment 2023-12-04 10:43 PMTestasTest 2 Alice  Bailey Parchment 2023-12-04 10:41 PMTestasEmployees on Leave TodayNo Employees are on Leave TodayEmployee Distribution by Sub UnitSales &amp; MarketingHuman ResourcesUnassignedEmployee Distribution by LocationHQ - CA, USATexas R&amp;DUnassigned</value>
+      <webElementGuid>dc52e83d-d180-40ba-9e30-7ff13cd83075</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]</value>
+      <webElementGuid>64883aa9-d7d0-4482-ada0-a86cc1470886</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]</value>
+      <webElementGuid>c39f72fd-1f03-4e53-8026-0a5eff2761aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]</value>
+      <webElementGuid>01ce74aa-5620-40a3-911d-0bec12429e57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Time at WorkPunched OutPunched Out: Dec 5th at 09:56 AM (GMT 5.5)24h 0m TodayThis WeekDec 04 - Dec 1035h 26m My Actions(1) Pending Self Review(1) Candidate to InterviewQuick LaunchAssign LeaveLeave ListTimesheetsApply LeaveMy LeaveMy TimesheetBuzz Latest PostsTest 2 Alice  Bailey Parchment 2023-12-04 10:47 PMTestasTest 2 Alice  Bailey Parchment 2023-12-04 10:45 PMTestasTest 2 Alice  Bailey Parchment 2023-12-04 10:45 PMTestasTest 2 Alice  Bailey Parchment 2023-12-04 10:43 PMTestasTest 2 Alice  Bailey Parchment 2023-12-04 10:41 PMTestasEmployees on Leave TodayNo Employees are on Leave TodayEmployee Distribution by Sub UnitSales &amp; MarketingHuman ResourcesUnassignedEmployee Distribution by LocationHQ - CA, USATexas R&amp;DUnassigned' or . = 'Time at WorkPunched OutPunched Out: Dec 5th at 09:56 AM (GMT 5.5)24h 0m TodayThis WeekDec 04 - Dec 1035h 26m My Actions(1) Pending Self Review(1) Candidate to InterviewQuick LaunchAssign LeaveLeave ListTimesheetsApply LeaveMy LeaveMy TimesheetBuzz Latest PostsTest 2 Alice  Bailey Parchment 2023-12-04 10:47 PMTestasTest 2 Alice  Bailey Parchment 2023-12-04 10:45 PMTestasTest 2 Alice  Bailey Parchment 2023-12-04 10:45 PMTestasTest 2 Alice  Bailey Parchment 2023-12-04 10:43 PMTestasTest 2 Alice  Bailey Parchment 2023-12-04 10:41 PMTestasEmployees on Leave TodayNo Employees are on Leave TodayEmployee Distribution by Sub UnitSales &amp; MarketingHuman ResourcesUnassignedEmployee Distribution by LocationHQ - CA, USATexas R&amp;DUnassigned')]</value>
+      <webElementGuid>a790171f-c3f4-4066-bd2e-65510dec95a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
